@@ -20,6 +20,3 @@
 <img align="center" alt="Html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </div>
-
-### Meu contato<br>
-- Email: denilsonms124@gmail.com
